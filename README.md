@@ -12,7 +12,7 @@ If the screen width goes beyond 768 pixels, the user has to scroll up and down t
 Therefore a media query or bootstrap rule could be made to help keep the whole grid on screen.<br>
 
 ### Preview
-![Demo preview]()
+![](media/video/jQueryGame.gif)
 
 ### Try Here :joystick: :point_down:
 <https://benheaton.dev/projects/jqGameCopy/index.html>
